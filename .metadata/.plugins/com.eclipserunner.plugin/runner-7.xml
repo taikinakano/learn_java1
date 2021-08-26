@@ -7,5 +7,8 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat8_Java8"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat9_Java11"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat9_Java16"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="declaration_of_final"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exercise1_3"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exersize1_2"/>
     </category>
 </runner>
