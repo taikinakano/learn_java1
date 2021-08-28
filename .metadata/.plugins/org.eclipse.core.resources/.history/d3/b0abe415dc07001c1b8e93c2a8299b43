@@ -1,0 +1,14 @@
+package chapter4;
+
+public class Main4_3 {
+	public static void main(String[] args) {
+		int[] numbers = {3, 4, 9};
+		System.out.println("一桁の数字を入力してください");
+		for (int s : numbers) {
+			int input = new java.util.Scanner(System.in).nextInt();
+			if (s == input) {
+				System.out.println("あたり");
+			}
+		}
+	}
+}

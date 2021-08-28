@@ -11,13 +11,13 @@ public class Main3_7 {
 			return;
 		case 2:
 			System.out.println("登録します");
-			break;
+			return;
 		case 3:
 			System.out.println("削除します");
-			break;
+			return;
 		case 4:
 			System.out.println("変更します");
-			break;
+			return;
 		default:
 			System.out.println("最初からやり直してください");
 		}

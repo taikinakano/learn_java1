@@ -4,6 +4,8 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main3_4"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main3_6"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main3_7"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main4_2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main4_3"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat10_Java16"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat6_Java6"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Tomcat7_Java7"/>
@@ -13,6 +15,7 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="declaration_of_final"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exercise1_3"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exercise3_3"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exercise4_1"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="exersize1_2"/>
     </category>
 </runner>
